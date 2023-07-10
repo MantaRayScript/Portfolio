@@ -1,0 +1,12 @@
+@use "./colors" as colors;
+@use "./fonts" as fonts;
+@use "./images" as images;
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	font-style: 62.5%;
+}
