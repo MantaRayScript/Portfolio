@@ -11,22 +11,30 @@
 	font-size: 62.5%;
 }
 
-// <----- HEADER ----->
+body {
+	// <----- HEADER ----->
 
+	// <----- NAVIGATION ----->
 
-// <----- NAVIGATION ----->
+	// <----- ABOUT ME ----->
 
+	// <----- MY PROJECTS ----->
+	#myProjects {
+		.project-card {
+			.img {
+				width: 100%;
+				height: 100%;
+				background-position: center;
+				background-size: cover;
+				border-radius: 15px;
+				transition: 0.8s;
+			}
+		}
+	}
 
-// <----- ABOUT ME ----->
+	// <----- CONTACT ME ----->
 
+	// <----- FOOTER ----->
 
-// <----- MY PROJECTS ----->
-
-
-// <----- CONTACT ME ----->
-
-
-// <----- FOOTER ----->
-
-
-// <----- BREAKPOINTS ----->
+	// <----- BREAKPOINTS ----->
+}
