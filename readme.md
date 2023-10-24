@@ -14,6 +14,11 @@ If you found a mistake that should be fixed, please let me know. I'm still learn
 
 This section is in progress...
 
+- [ ] Creating the HEADER section with NAVIGATION (HTML)
+- [ ] Creating the ABOUT ME section (HTML)
+- [ ] Creating the MY PROJECTS section (HTML)
+- [ ] Creating the CONTACT section (HTML)
+
 ## Built with
 
 |       Type        | Content                                                                                                                                                                                                                                                                                                                                                                                                                                            |
