@@ -18,6 +18,9 @@ This section is in progress...
 - [ ] Creating the ABOUT ME section (HTML)
 - [ ] Creating the MY PROJECTS section (HTML)
 - [ ] Creating the CONTACT section (HTML)
+- [ ] Styling every single section (CSS/SASS, using BEM)
+- [ ] Adding a script for the navigation (JS)
+- [ ] Adding a script for...
 
 ## Built with
 
